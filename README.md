@@ -7,6 +7,6 @@ A new Flutter application.
   </tr>
   <tr><td><img src="photo6226339657684200114.jpg"></td><td><img src="photo6226339657684200115.jpg"></td><td><img src="photo6226339657684200116.jpg"></td>
   </tr>
-  <tr><img src="photo6226339657684200117.jpg">
+  <tr><td><img src="photo6226339657684200117.jpg"></td>
 </tr>
   </table>
